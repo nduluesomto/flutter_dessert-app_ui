@@ -1,16 +1,31 @@
-# donut_app
+# dessert_app_ui
 
-Donut App
+Flutter Dessert App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+## Folder Structure
+Here is the core folder structure which flutter provides.
+<code>
+flutter-app/
+ |- android
+ |- build
+ |- ios
+ |- lib
+ |- test
+ </code>
+ 
+ Here is the folder structure used in this project
+<code> 
+lib/
+|- icons/
+|- images/
+|- pages/
+|- tabs/
+|- util/
+|- main.dart</code>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## App Screens
+  <img src="https://user-images.githubusercontent.com/120676400/227811603-5095d20d-04fe-4acd-bf9b-f89e1d7c4d85.png" width="330" height="700">  <img src="https://user-images.githubusercontent.com/120676400/227811611-391282b1-fcb0-457e-900d-20f8c7ca5675.png" width="330" height="700">
+  
